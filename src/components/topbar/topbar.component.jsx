@@ -4,6 +4,8 @@ import "./topbar.styles.scss";
 import { Menu } from "react-feather";
 
 export default function TopBar() {
+  function handleClick() {}
+
   return (
     <div className="topbar">
       <button className="menu-btn">

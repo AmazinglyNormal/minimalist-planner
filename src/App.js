@@ -1,12 +1,12 @@
 import React from "react";
 import "./App.css";
 
-import TopBar from "./components/topbar/topbar.component";
+import Layout from "./components/layout/layout.component";
 
 function App() {
   return (
     <div>
-      <TopBar />
+      <Layout />
     </div>
   );
 }
