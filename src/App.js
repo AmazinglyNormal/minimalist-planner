@@ -1,12 +1,12 @@
 import React from "react";
 import "./App.css";
 
-import Layout from "./components/layout/layout.component";
+import MainNav from "./components/main-nav/main-nav.component";
 
 function App() {
   return (
     <div>
-      <Layout />
+      <MainNav />
     </div>
   );
 }
